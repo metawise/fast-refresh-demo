@@ -36,7 +36,7 @@ function Home() {
       </p>
       <hr className={styles.hr} />
       <div>
-        <p>test
+        <p>Removing it.
           Auto incrementing value. The counter won't reset after edits or if
           there are errors.
         </p>
